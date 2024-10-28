@@ -97,7 +97,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer, veuillez o
 5. Ouvrez une pull request.
 
 ## Auteurs
-- **Mathieu Soussigan** - [Votre GitHub](https://github.com/Mathieu-Soussignan)
+- **Mathieu Soussigan** - [Mon GitHub](https://github.com/Mathieu-Soussignan)
 
 ## Licence
 Ce projet est sous licence MIT.
